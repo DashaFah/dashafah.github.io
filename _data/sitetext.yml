@@ -1,9 +1,10 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Daria Fakhrutdinova
+    text: It's Nice To Meet You 
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
+{% comment %}
 services:
     title: "Services"
     text: "Lorem ipsum"
@@ -17,11 +18,12 @@ services:
         icon: fas fa-laptop       
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fab fa-markdown 
+{% comment %}
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Some words about projects"
     section: portfolio
     
 
@@ -30,24 +32,36 @@ timeline:
     text: "Lorem ipsum timeline"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Schule Nr 1319 mit erweitertem Englischunterricht"
+        year: "2004 - 2012"
+        desc: "Moskau, Russland"
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Lyzeum Nr 1533 (Informationstechnologien)"
+        year: "2012 - 2015"
+        desc: "Schwerpunkt: Computergraphik, Mathe"
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Moskauer Polytechnische Universität"
+        year: "2015 - 2019"
+        desc: "Studiengang: Informationssysteme und Technologien, Bachelor. Schwerpunkt: Informationssysteme und Technologien in Medien"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-        #align: #default is left       
+        #align: #default is left
+      - title: "Auslandssemester in Deutschland"
+        year: "März 2018 - Juli 2018"
+        desc: "Hochschule der Medien Stuttgart. Studiengang: Medieninformatik"
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+        #align: #default is left
+      - title: "Ludwig-Maximilians-Universität München"
+        year: "2019 - bis jetzt"
+        desc: "Studiengang: Master Medieninformatik. Ohne Anwendungsfach"
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+        #align: #default is left  
       - title: "Title"
         year: "2009-2011"
         desc: "Your description here, **Markdown** is fully supported."
