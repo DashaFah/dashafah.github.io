@@ -1,6 +1,5 @@
 header:
     title: Daria Fakhrutdinova
-    image: assets/img/1.jpg
     text: It's Nice To Meet You 
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
