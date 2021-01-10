@@ -30,5 +30,6 @@ Technology stack:
 
 {:.list-inline}
 - Date: June 2019
+- Place: Moscow Polytechnic University, Russia
 - Bachelor project
 
