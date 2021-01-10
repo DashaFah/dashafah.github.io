@@ -1,5 +1,5 @@
 header:
-    title: [Logo Title Text 1](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png ) 
+    title: ![Logo Title Text 1](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png ) 
     text: It's Nice To Meet You 
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
