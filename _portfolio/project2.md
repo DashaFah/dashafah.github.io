@@ -14,10 +14,9 @@ Virtual classroom, where students all over the world will be able to listen to u
 Students will be able to quickly find and listen to lectures from different universities on the specialty of interest in the virtual classroom, regardless of where they live and where they are located
 Teachers at educational institutions around the world will have a clear and user-friendly interface for preparing lectures for the virtual classroom
 
-
 <video style="width:100%" controls src="assets/img/portfolio/VR_class_video-02.mp4.png" type="video/mp4"></video>
 
-Technology stack:
+Technology stack425245:
 {:.list-inline}
 - OS Windows operating system
 - C# programming language
