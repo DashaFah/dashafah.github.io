@@ -54,64 +54,28 @@ timeline:
    # end: "Be Part <br> of Our <br> Story!"
 
 about:
-    title: "About Us"
-    text: "our story"
+    title: "My education way"
+    #text: "our story"
     section: about
-
-#clients:
-#    section: clients
-#    max-height: 100px
-#    horizontal-scrolling: "" #"yes/no"
-#    list:
-#      - title: "envato"
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/envato.jpg
-#      - title: "designmodo"
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/designmodo.jpg
-#      - title: "themeforest"
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/themeforest.jpg
-#      - title: "Creative Market"
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/creative-market.jpg
-    
+ 
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "That's me"
+#    text: "Lorem ipsum dolor sit amet consectetur."
+#    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
+      - name: "Daria Fakhrutdinova"
         role: "Lead Designer"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/myPhoto-01.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.facebook.com/profile.php?id=100010525668543
+            icon: "fab fa-facebook-f"
+          - url: https://www.linkedin.com/in/daria-fakhrutdinova-70360b198/
+            icon: "fab fa-linkedin-in"
+          - url: https://github.com/DashaFah
+            icon: "fab fa-github"
+          - url: https://www.instagram.com/immerschreien/
+            icon: "fab fa-instagram"
           
 contact:
     title: "Contact Us"
