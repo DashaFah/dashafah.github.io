@@ -14,6 +14,7 @@ The idea of building a train station in the center of Stuttgart was proposed by 
 The person can look around the entrance hall, inspect timetables and display boards. You can also watch the people around you or check the time. Together with the sound of a train arriving and other ambient noises, the person is transported back to the time around 1900.
 
 Technology stack:
+
 {:.list-inline}
 - Unity
 - Blender
@@ -23,6 +24,7 @@ Technology stack:
 - Date: July 2018
 - University: Hochschule der Medien Stuttgart
 - Category: VR
+
 {:.list-inline}
 - Date: July 2018
 - University: Hochschule der Medien Stuttgart
