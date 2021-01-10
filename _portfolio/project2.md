@@ -2,9 +2,7 @@
 title: A VIRTUAL CLASSROOM
 subtitle: A system for classes in VR
 image: assets/img/portfolio/VR_class_01.png
-
 alt: Keep Exploring
-image: assets/img/portfolio/VR_class_02.jpg
 
 caption:
   title: Explore
