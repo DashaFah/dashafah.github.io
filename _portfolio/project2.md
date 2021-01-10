@@ -17,6 +17,7 @@ Students will be able to quickly find and listen to lectures from different univ
 Teachers at educational institutions around the world will have a clear and user-friendly interface for preparing lectures for the virtual classroom
 
 Technology stack:
+{:.list-inline}
 - OS Windows operating system
 - C# programming language
 - Windows Forms API GUI
