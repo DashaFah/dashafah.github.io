@@ -61,7 +61,7 @@ about:
 team:
     title: "That's me"
 #    text: "Lorem ipsum dolor sit amet consectetur."
-#    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext:
     section: team
     people:
       - name: "Daria Fakhrutdinova"
