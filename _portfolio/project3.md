@@ -15,11 +15,11 @@ We asked ourselves the question: How can Munich residents and tourists best get 
 
 A worthy option can be a scavenger hunt game based on AR technology. All the user needs is a smartphone with a camera and internet access. In this way he can find out facts about important places in the park in an entertaining way, see them with his own eyes and have a good time.
 
-<img src="Schnitzeljagd-03.png" alt="Map" width="500" height="600">
+<img src="assets/img/portfolio/Schnitzeljagd-03.png" alt="Map" width="500" height="600">
 
 In the course of the scavenger hunt, the player is taken to 7 locations. Knowledge about the places should be built into the story through dialogues. The following is a brief summary of the story and the interaction options.
 
-<img src="Schnitzeljagd-01.png" alt="Map" width="500" height="600">
+<img src="assets/img/portfolio/Schnitzeljagd-01.png" alt="Map" width="500" height="600">
 
 Technology stack:
 - Unity 3D 
