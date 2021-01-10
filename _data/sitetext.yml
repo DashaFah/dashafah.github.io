@@ -31,43 +31,43 @@ timeline:
     text: "Lorem ipsum timeline"
     section: timeline
     events:
-      - title: "Schule Nr 1319 mit erweitertem Englischunterricht"
-        year: "2004 - 2012"
-        desc: "Moskau, Russland"
-        image: assets/img/timeline/1.jpg
-        alt: 
-        align: left
-      - title: "Lyzeum Nr 1533 (Informationstechnologien)"
-        year: "2012 - 2015"
-        desc: "Schwerpunkt: Computergraphik, Mathe"
-        image: assets/img/timeline/2.jpg
-        alt: 
-        align: right
-      - title: "Moskauer Polytechnische Universität"
-        year: "2015 - 2019"
-        desc: "Studiengang: Informationssysteme und Technologien, Bachelor. Schwerpunkt: Informationssysteme und Technologien in Medien"
+      - title: "Ludwig-Maximilians-Universität München"
+        year: "2019 - bis jetzt"
+        desc: "Studiengang: Master Medieninformatik. Ohne Anwendungsfach"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-        #align: #default is left
+        #align: #default is left       
       - title: "Auslandssemester in Deutschland"
         year: "März 2018 - Juli 2018"
         desc: "Hochschule der Medien Stuttgart. Studiengang: Medieninformatik"
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left
-      - title: "Ludwig-Maximilians-Universität München"
-        year: "2019 - bis jetzt"
-        desc: "Studiengang: Master Medieninformatik. Ohne Anwendungsfach"
+      - title: "Moskauer Polytechnische Universität"
+        year: "2015 - 2019"
+        desc: "Studiengang: Informationssysteme und Technologien, Bachelor. Schwerpunkt: Informationssysteme und Technologien in Medien"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-        #align: #default is left  
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+        #align: #default is left
+      - title: "Lyzeum Nr 1533 (Informationstechnologien)"
+        year: "2012 - 2015"
+        desc: "Schwerpunkt: Computergraphik, Mathe"
+        image: assets/img/timeline/2.jpg
         alt: 
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+      - title: "Schule Nr 1319 mit erweitertem Englischunterricht"
+        year: "2004 - 2012"
+        desc: "Moskau, Russland"
+        image: assets/img/timeline/1.jpg
+        alt: 
+        align: left
+      #- title: "Title"
+      #  year: "2009-2011"
+       # desc: "Your description here, **Markdown** is fully supported."
+     #   image: assets/img/timeline/4.jpg
+     #   alt: 
+     #   align: right
+   # end: "Be Part <br> of Our <br> Story!"
 
 about:
     title: "About Us"
