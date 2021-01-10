@@ -1,13 +1,15 @@
 ---
 title: A VIRTUAL CLASSROOM
 subtitle: A system for classes in VR
-image: assets/img/portfolio/VR_class_01.jpg
+image: assets/img/portfolio/VR_class_01.png
+
 alt: Keep Exploring
+image: assets/img/portfolio/VR_class_02.jpg
 
 caption:
   title: Explore
   subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/VR_class_01.jpg
+  thumbnail: assets/img/portfolio/VR_class_01.png
 ---
 Virtual classroom, where students all over the world will be able to listen to university lectures using VR technology with full immersion in the learning process without personal presence in the classroom
 
