@@ -13,6 +13,10 @@ The idea of building a train station in the center of Stuttgart was proposed by 
 
 The person can look around the entrance hall, inspect timetables and display boards. You can also watch the people around you or check the time. Together with the sound of a train arriving and other ambient noises, the person is transported back to the time around 1900.
 
+<img src="assets/img/portfolio/Bahnhof-02.png" alt="Guy" width="70%" height="70%">
+
+<img src="assets/img/portfolio/Bahnhof-03.png" alt="Train" width="70%" height="70%">
+
 Technology stack:
 - Unity
 - Blender
