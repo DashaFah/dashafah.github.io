@@ -32,4 +32,5 @@ Technology stack:
 - Date: June 2019
 - Place: Moscow Polytechnic University, Russia
 - Bachelor project
+- Software Development, VR
 
