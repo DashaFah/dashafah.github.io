@@ -28,6 +28,6 @@ Technology stack:
 
 {:.list-inline}
 - Date: July 2020
-- Place: LMU und IRT
+- Place: LMU und IRT, Munich
 - Category: AR
 
