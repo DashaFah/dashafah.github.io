@@ -1,13 +1,13 @@
 ---
 title: Historischer Bahnhof Stuttgart im Jahr 1900
 subtitle: Experience the old Stuttgart train station in VR
-image: assets/img/portfolio/Bahnhof-01.jpg
+image: assets/img/portfolio/Bahnhof-01.png
 alt: Shirts on a hanger
 
 caption:
   title: Historical Stuttgart train station
   subtitle: VR
-  thumbnail: assets/img/portfolio/Bahnhof-01.jpg
+  thumbnail: assets/img/portfolio/Bahnhof-01.png
 ---
 The idea of building a train station in the center of Stuttgart was proposed by King Wilhelm 1. The building was used as a train station until 1922.
 
@@ -19,11 +19,6 @@ Technology stack:
 - Unity
 - Blender
 - VR HTC-Headset
-
-{:.list-inline}
-- Date: July 2018
-- University: Hochschule der Medien Stuttgart
-- Category: VR
 
 {:.list-inline}
 - Date: July 2018
