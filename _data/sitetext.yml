@@ -2,7 +2,7 @@ header:
     title: Daria Fakhrutdinova 
     text: It's Nice To Meet You 
     button: Tell Me More
-    buttonlink: "#about" # "#{section}" or "URL/page link"
+    buttonlink: "#timeline" # "#{section}" or "URL/page link"
 
 portfolio:
     title: "Portfolio"
