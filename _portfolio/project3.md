@@ -1,13 +1,13 @@
 ---
 title: AR Schnitzeljagd
 subtitle: Tour durch den Englischen Garten 
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
+image: assets/img/portfolio/Schnitzeljagd-01.png
 alt: 
 
 caption:
   title: Finish
   subtitle: Identity
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/Schnitzeljagd-02.png
 ---
 Munich has many sights worth visiting, and one of those places is the English Garden. With 375 hectares, it is one of the largest parks in the world. In the southern part of the park there are two large brooks, the Eisbach and the Schwabinger Bach, whose branches form a complex brook system. In addition to the charming landscapes and untouched nature, the park offers a variety of attractions and interesting excursion destinations. The English garden plays a major role in the life of the city.
 
