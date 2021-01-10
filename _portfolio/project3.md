@@ -19,7 +19,7 @@ A worthy option can be a scavenger hunt game based on AR technology. All the use
 
 In the course of the scavenger hunt, the player is taken to 7 locations. Knowledge about the places should be built into the story through dialogues. The following is a brief summary of the story and the interaction options.
 
-<img src="assets/img/portfolio/Schnitzeljagd-01.png" alt="Map" width="500" height="600">
+<img src="assets/img/portfolio/Schnitzeljagd-01.png" alt="Dialog" width="500" height="600">
 
 Technology stack:
 - Unity 3D 
