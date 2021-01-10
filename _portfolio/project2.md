@@ -5,8 +5,8 @@ image: assets/img/portfolio/VR_class-01.png
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: A virtual classroom
+  subtitle: C#, VR
   thumbnail: assets/img/portfolio/VR_class-01.png
 ---
 Virtual classroom, where students all over the world will be able to listen to university lectures using VR technology with full immersion in the learning process without personal presence in the classroom
