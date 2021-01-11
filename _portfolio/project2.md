@@ -17,7 +17,7 @@ Teachers at educational institutions around the world will have a clear and user
 
 Students will be able to quickly find and listen to lectures from different universities on the specialty of interest in the virtual classroom, regardless of where they live and where they are located.
 
-<video style="width:100%" controls src="assets/img/portfolio/VR_class_video_01.avi" type="video/avi"></video>
+<video style="width:100%" controls src="assets/img/portfolio/VR_class_video-03.ogg" type="video/ogg"></video>
 
 <video style="width:100%" controls src="assets/img/portfolio/VR_class_video-02.mp4" type="video/mp4"></video>
 
