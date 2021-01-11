@@ -76,6 +76,18 @@ team:
             icon: "fab fa-github"
           - url: https://www.instagram.com/immerschreien/
             icon: "fab fa-instagram"
+      - name: "Daria Fakhrutdinova"
+        role: "fahrutdinovadaria(at)gmail.com\n +4915145048694"
+        image: assets/img/team/myPhoto-02.jpg
+        social:
+          - url: https://www.facebook.com/profile.php?id=100010525668543
+            icon: "fab fa-facebook-f"
+          - url: https://www.linkedin.com/in/daria-fakhrutdinova-70360b198/
+            icon: "fab fa-linkedin-in"
+          - url: https://github.com/DashaFah
+            icon: "fab fa-github"
+          - url: https://www.instagram.com/immerschreien/
+            icon: "fab fa-instagram"
           
 contact:
     title: "Contact Us"
