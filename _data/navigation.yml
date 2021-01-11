@@ -1,13 +1,10 @@
 nav:
+  - title: "About" 
+    section: team
 
-  - title: "About"
+  - title: "Education Way"
     section: timeline
 
   - title: "Portfolio"
     section: portfolio    
 
-  - title: "Contact"
-    section: contact
-
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
