@@ -6,13 +6,13 @@ header:
 
 portfolio:
     title: "Portfolio"
-    text: "Some words about projects"
+    text: "Some words about my projects"
     section: portfolio
     
 
 timeline:
-    title: "My education way" 
-    text: "Lorem ipsum timeline"
+    title: "My educational way" 
+#    text: "Lorem ipsum timeline"
     section: timeline
     events:
       - title: "Ludwig-Maximilians-Universität München"
@@ -65,7 +65,7 @@ team:
     section: team
     people:
       - name: "Daria Fakhrutdinova"
-        role: "Lead Designer"
+#        role: "Lead Designer"
         image: assets/img/team/myPhoto-01.jpg
         social:
           - url: https://www.facebook.com/profile.php?id=100010525668543
