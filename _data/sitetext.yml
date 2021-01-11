@@ -1,8 +1,8 @@
 header:
-    title: Daria Fakhrutdinova 
-    text: Master Student Medieninformatik 
-    button: Tell Me More
-    buttonlink: "#timeline" # "#{section}" or "URL/page link"
+    title: Master Student Medieninformatik
+    text: Daria Fakhrutdinova
+    button: Learn about me
+    buttonlink: "#team" # "#{section}" or "URL/page link"
 
 portfolio:
     title: "Portfolio"
@@ -52,11 +52,6 @@ timeline:
      #   alt: 
      #   align: right
    # end: "Be Part <br> of Our <br> Story!"
-
-about:
-    title: "My education way"
-    #text: "our story"
-    section: about
  
 team:
     title: "That's me"
@@ -90,21 +85,6 @@ contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
     section: contact
-    
-#services:
-#    title: "Services"
-#    text: "Lorem ipsum"
-#    section: services
-#    list:
-#      - title: "E-Commerce"
-#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-#        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-#      - title: "Responsive Design"
-#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-#        icon: fas fa-laptop       
-#      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-#        desc: "Your description here, full **Markdown** support"
-#        icon: fab fa-markdown 
     
 footer:
     legal: "Privacy Policy"
