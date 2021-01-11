@@ -61,7 +61,7 @@ about:
 team:
     title: "That's me"
 #    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext:
+    subtext: Sooooooome text
     section: team
     people:
       - name: "Daria Fakhrutdinova"
