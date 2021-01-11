@@ -77,7 +77,7 @@ team:
           - url: https://www.instagram.com/immerschreien/
             icon: "fab fa-instagram"
       - name: " "
-        role: "**Anwendungsentwicklung:** \n Entwicklungsumgebungen Xcode und Visual Studio, C++,C# (+ WinForms), Java, HTML(5), XML, JavaScript, CSS, SQL, framework Qt \n 
+        role: "<b>Anwendungsentwicklung:<\b> \n Entwicklungsumgebungen Xcode und Visual Studio, C++,C# (+ WinForms), Java, HTML(5), XML, JavaScript, CSS, SQL, framework Qt \n 
               **Beherrschung von Betriebssystemen:**\n	MacOS X, Windows XP,7,8,10 \n
               **Datenbanken:**\n	MySQL, Oracle \n
               **Game Engines:**\n	Unreal Engine 4, Unity \n
