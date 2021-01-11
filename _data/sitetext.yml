@@ -82,11 +82,8 @@ team:
                     <th>Anwendungsentwicklung:</th>
                     <th>Entwicklungsumgebungen Xcode und Visual Studio C++,C# (+ WinForms), Java, HTML(5), XML, JavaScript, CSS, SQL, framework Qt</th> 
                   </tr>
-                  <tr>
-                    <td>Jill</td>
-                    <td>Smith</td>
-                  </tr>
               </table>
+              
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
