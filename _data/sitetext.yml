@@ -76,6 +76,15 @@ team:
             icon: "fab fa-github"
           - url: https://www.instagram.com/immerschreien/
             icon: "fab fa-instagram"
+       - name: ""
+        role: "Anwendungsentwicklung: Entwicklungsumgebungen Xcode und Visual Studio C++,C# (+ WinForms), Java, HTML(5), XML, JavaScript, CSS, SQL, framework Qt \n
+               Beherrschung von Betriebssystemen:	MacOS X, Windows XP,7,8,10\n
+               Datenbanken:	MySQL, Oracle\n
+               Game Engines:	Unreal Engine 4, Unity\n
+               VR/AR Technologie:	VR-Anwendungen für HTC Vive Headset, ARCore, Vuforia\n
+               Web-Sites Prototyping:	Sketch, Tilda Publishing\n
+               Multimedia Verarbeitung:	Adobe Photoshop, Adobe Premier Pro, Adobe After Effects, Adobe Illustrator, Adobe Flash, Adobe Audition, Audacity\n
+               3D Modellierung:	Blender 3D"
           
 contact:
     title: "Contact Us"
