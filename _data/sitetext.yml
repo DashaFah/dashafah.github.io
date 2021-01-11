@@ -76,8 +76,8 @@ team:
             icon: "fab fa-github"
           - url: https://www.instagram.com/immerschreien/
             icon: "fab fa-instagram"
-       - name: ""
-        role: "Anwendungsentwicklung: Entwicklungsumgebungen Xcode und Visual Studio C++,C# (+ WinForms), Java, HTML(5), XML, JavaScript, CSS, SQL, framework Qt \n
+       - name: " Larry"
+         role: "Anwendungsentwicklung: Entwicklungsumgebungen Xcode und Visual Studio C++,C# (+ WinForms), Java, HTML(5), XML, JavaScript, CSS, SQL, framework Qt \n
                Beherrschung von Betriebssystemen:	MacOS X, Windows XP,7,8,10\n
                Datenbanken:	MySQL, Oracle\n
                Game Engines:	Unreal Engine 4, Unity\n
