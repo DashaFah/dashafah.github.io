@@ -77,14 +77,14 @@ team:
           - url: https://www.instagram.com/immerschreien/
             icon: "fab fa-instagram"
       - name: " "
-        role: "<b style="text-align: left;>Anwendungsentwicklung:</b> Entwicklungsumgebungen Xcode und Visual Studio, C++, C# (+ WinForms), Java, HTML(5), XML, JavaScript, CSS, SQL, framework Qt <br> 
+        role: "<p style="text-align:left;"><b>Anwendungsentwicklung:</b> Entwicklungsumgebungen Xcode und Visual Studio, C++, C# (+ WinForms), Java, HTML(5), XML, JavaScript, CSS, SQL, framework Qt <br> 
               <b>Beherrschung von Betriebssystemen:</b>	MacOS X, Windows XP,7,8,10 <br>
               <b>Datenbanken:</b>	MySQL, Oracle <br>
               <b>Game Engines:</b>	Unreal Engine 4, Unity <br>
               <b>VR/AR Technologie:</b>	VR-Anwendungen für HTC Vive Headset, ARCore, Vuforia <br>
               <b>Web-Sites Prototyping:</b>	Sketch, Tilda Publishing <br>
               <b>Multimedia Verarbeitung:</b>	Adobe Photoshop, Adobe Premier Pro, Adobe After Effects, Adobe Illustrator, Adobe Flash, Adobe Audition, Audacity <br>
-              <b>3D Modellierung:</b>	Blender 3D"
+              <b>3D Modellierung:</b>	Blender 3D</p>"
               
 contact:
     title: "Contact Us"
