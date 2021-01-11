@@ -61,7 +61,7 @@ about:
 team:
     title: "That's me"
 #    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Sooooooome text
+    subtext:
     section: team
     people:
       - name: "Daria Fakhrutdinova"
@@ -76,15 +76,6 @@ team:
             icon: "fab fa-github"
           - url: https://www.instagram.com/immerschreien/
             icon: "fab fa-instagram"
-       - name: " Larry"
-         role: "Anwendungsentwicklung: Entwicklungsumgebungen Xcode und Visual Studio C++,C# (+ WinForms), Java, HTML(5), XML, JavaScript, CSS, SQL, framework Qt | 
-               Beherrschung von Betriebssystemen:	MacOS X, Windows XP,7,8,10 |
-               Datenbanken:	MySQL, Oracle |
-               Game Engines:	Unreal Engine 4, Unity |
-               VR/AR Technologie:	VR-Anwendungen für HTC Vive Headset, ARCore, Vuforia |
-               Web-Sites Prototyping:	Sketch, Tilda Publishing |
-               Multimedia Verarbeitung:	Adobe Photoshop, Adobe Premier Pro, Adobe After Effects, Adobe Illustrator, Adobe Flash, Adobe Audition, Audacity |
-               3D Modellierung:	Blender 3D"
           
 contact:
     title: "Contact Us"
