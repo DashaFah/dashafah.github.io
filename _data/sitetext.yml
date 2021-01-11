@@ -77,7 +77,7 @@ team:
           - url: https://www.instagram.com/immerschreien/
             icon: "fab fa-instagram"
       - name: " "
-        role: "<table style="width:100%"><tr><th>Anwendungsentwicklung:</th><th>Entwicklungsumgebungen Xcode und Visual Studio C++,C# (+ WinForms), Java, HTML(5), XML, JavaScript, CSS, SQL, framework Qt</th> </tr></table>"
+        role: "<table style=""width:100%""><tr><th>Anwendungsentwicklung:</th><th>Entwicklungsumgebungen Xcode und Visual Studio C++,C# (+ WinForms), Java, HTML(5), XML, JavaScript, CSS, SQL, framework Qt</th> </tr></table>"
               
 contact:
     title: "Contact Us"
