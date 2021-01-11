@@ -18,31 +18,31 @@ timeline:
       - title: "Ludwig-Maximilians-Universität München"
         year: "2019 - bis jetzt"
         desc: "Studiengang: Master Medieninformatik. Ohne Anwendungsfach"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/lmu.jpg
         alt: image alt text
         #align: #default is left       
       - title: "Auslandssemester in Deutschland"
         year: "März 2018 - Juli 2018"
         desc: "Hochschule der Medien Stuttgart. Studiengang: Medieninformatik"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/hdm.jpeg
         alt: image alt text
         #align: #default is left
       - title: "Moskauer Polytechnische Universität"
         year: "2015 - 2019"
         desc: "Studiengang: Informationssysteme und Technologien, Bachelor. Schwerpunkt: Informationssysteme und Technologien in Medien"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/mgup.jpg
         alt: image alt text
         #align: #default is left
       - title: "Lyzeum Nr 1533 (Informationstechnologien)"
         year: "2012 - 2015"
         desc: "Schwerpunkt: Computergraphik, Mathe"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/lit.jpg
         alt: 
         align: right
       - title: "Schule Nr 1319 mit erweitertem Englischunterricht"
         year: "2004 - 2012"
         desc: "Moskau, Russland"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/1206.jpg
         alt: 
         align: left
       #- title: "Title"
