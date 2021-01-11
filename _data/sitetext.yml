@@ -61,7 +61,7 @@ team:
     people:
       - name: "Daria Fakhrutdinova"
         role: "fahrutdinovadaria(at)gmail.com<br>  +4915145048694"
-        image: assets/img/team/myPhoto-02.jpg
+        image: assets/img/team/myPhoto-01.jpg
         social:
           - url: https://www.facebook.com/profile.php?id=100010525668543
             icon: "fab fa-facebook-f"
