@@ -64,7 +64,7 @@ team:
     subtext:
     section: team
     people:
-      - name: "Daria Fakhrutdinova2"
+      - name: "Daria Fakhrutdinova3"
         role: "fahrutdinovadaria(at)gmail.com<br>  +4915145048694"
         image: assets/img/team/myPhoto-02.jpg
         social:
@@ -84,7 +84,7 @@ team:
               <b>VR/AR Technologie:</b>	VR-Anwendungen für HTC Vive Headset, ARCore, Vuforia <br>
               <b>Web-Sites Prototyping:</b>	Sketch, Tilda Publishing <br>
               <b>Multimedia Verarbeitung:</b>	Adobe Photoshop, Adobe Premier Pro, Adobe After Effects, Adobe Illustrator, Adobe Flash, Adobe Audition, Audacity <br>
-              <b>3D Modellierung:</b>	Blender 3D"
+              <b>3D Modellierung:</b>	Blender 3D </style>"
               
 contact:
     title: "Contact Us"
