@@ -23,7 +23,7 @@ In the course of the scavenger hunt, the player is taken to 7 locations. Knowled
 
 Technology stack:
 - Unity 3D 
-- ARCore
+- ARCore, Vuforia
 - Blender
 
 {:.list-inline}
