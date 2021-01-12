@@ -11,7 +11,7 @@ caption:
 ---
 Virtual classroom, where students all over the world will be able to listen to university lectures using VR technology with full immersion in the learning process without personal presence in the classroom.
 
-<img src="assets/img/portfolio/VR_class-02.jpg" alt="VR-headset" width="50%" height="50%">
+<img src="assets/img/portfolio/VR_class-02.jpg" alt="VR-headset" width="60%" height="60%">
 
 Teachers at educational institutions around the world will have a clear and user-friendly interface for preparing lectures for the virtual classroom.
 
