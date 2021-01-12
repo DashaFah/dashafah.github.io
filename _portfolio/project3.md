@@ -1,7 +1,7 @@
 ---
 title: AR Schnitzeljagd
 subtitle: Tour durch den Englischen Garten 
-image: assets/img/portfolio/Schnitzeljagd-01.png
+image: assets/img/portfolio/Schnitzeljagd-02.png
 alt: 
 
 caption:
@@ -19,7 +19,7 @@ A worthy option can be a scavenger hunt game based on AR technology. All the use
 
 In the course of the scavenger hunt, the player is taken to 7 locations. Knowledge about the places should be built into the story through dialogues. The following is a brief summary of the story and the interaction options.
 
-<img src="assets/img/portfolio/Schnitzeljagd-01.png" width="50%" height="50%" alt="Dialog">
+<img src="assets/img/portfolio/Schnitzeljagd-01.png" width="70%" height="70%" alt="Dialog">
 
 Technology stack:
 - Unity 3D 
